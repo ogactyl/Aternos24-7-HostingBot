@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ytmcgg.mcsh.io",
-    "port": 25565,
+    "ip": "217.154.161.167",
+    "port": 12823,
     "version": "",
     "try-creative": false
   },
